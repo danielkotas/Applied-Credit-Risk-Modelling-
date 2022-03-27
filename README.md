@@ -3,5 +3,8 @@ This repository is intended for sharing my work in the Applied Credit Risk Model
 
 
 US mortgage loan data: https://www.federalreserve.gov/releases/chargeoff/delallsa.htm#fn1
+US macroeconomic data: https://fred.stlouisfed.org ; https://www.bea.gov/data/gdp
 
-UK mortage loan data: 
+UK mortage loan data: https://www.fca.org.uk/data/mortgage-lending-statistics
+UK macroeconomic data: https://www.ons.gov.uk/economy
+
